@@ -37,8 +37,9 @@ npx create-mf-app
 ? Language: javascript <- same here <br/>
 ? CSS: Tailwind <- damit wir uns nicht in die Haare kriegen, weil der Button eines anderen hässlicher ist als der eigene <br/>
 <br/> 
+
 ```shell
-cd <ComponentName> <br/>
-npm install <br/>
-npm start <br/>
+cd <ComponentName>
+npm install 
+npm start 
 ```
