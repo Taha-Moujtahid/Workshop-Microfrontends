@@ -21,3 +21,18 @@ Dabei ist es Dir und deinem/r Partner/in überlassen, welches Framework Du bzw. 
 - [Microfrontend Seite](https://micro-frontends.org)
 - [Microfrontend GitHub Repo](https://github.com/neuland/micro-frontends)
 - [Create-MF-App](https://github.com/jherr/create-mf-app)
+
+## Getting Started 
+Wähle dein Component Team (AudioPlayer PORT=3001, SongList PORT=3002, FriendsList PORT=3003)
+npx create-mf-app
+
+? Pick the name of your app: <ComponentName>
+? Project Type: Application
+? Port number: 300X
+? Framework: react <- Ihr könnt natürlich auch was anderes verwenden
+? Language: javascript <- same here
+? CSS: Tailwind <- damit wir uns nicht in die haare kriegen weil der button eines anderen hässlicher ist als der eigene
+
+▶️ cd <ComponentName>
+▶️ npm install
+▶️ npm start
