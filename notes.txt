@@ -1,0 +1,19 @@
+npx create-mf-app
+
+? Pick the name of your app: host
+? Project Type: Application
+? Port number: 3000
+? Framework: react
+? Language: javascript
+? CSS: Tailwind
+
+▶️ cd host
+▶️ npm install
+▶️ npm start
+
+cd host 
+npm install 
+npm install @headlessui/react
+npm install @heroicons/react
+
+/remoteEntry.js
