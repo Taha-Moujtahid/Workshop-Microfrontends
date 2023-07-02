@@ -31,7 +31,7 @@ npx create-mf-app <br/>
 ? Port number: 300X <br/>
 ? Framework: react <- Ihr könnt natürlich auch was anderes verwenden <br/>
 ? Language: javascript <- same here <br/>
-? CSS: Tailwind <- damit wir uns nicht in die haare kriegen weil der button eines anderen hässlicher ist als der eigene <br/>
+? CSS: Tailwind <- damit wir uns nicht in die Haare kriegen, weil der Button eines anderen hässlicher ist als der eigene <br/>
 <br/> 
 ▶️ cd <ComponentName> <br/>
 ▶️ npm install <br/>
