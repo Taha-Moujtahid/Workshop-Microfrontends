@@ -24,7 +24,11 @@ Dabei ist es Dir und deinem/r Partner/in überlassen, welches Framework Du bzw. 
 
 ## Getting Started 
 Wähle dein Component Team (AudioPlayer PORT=3001, SongList PORT=3002, FriendsList PORT=3003) <br/>
-npx create-mf-app <br/>
+<br/>
+```shell
+npx create-mf-app
+```
+<br/>
 <br/>
 ? Pick the name of your app: <ComponentName> <br/>
 ? Project Type: Application <br/>
@@ -33,6 +37,8 @@ npx create-mf-app <br/>
 ? Language: javascript <- same here <br/>
 ? CSS: Tailwind <- damit wir uns nicht in die Haare kriegen, weil der Button eines anderen hässlicher ist als der eigene <br/>
 <br/> 
-▶️ cd <ComponentName> <br/>
-▶️ npm install <br/>
-▶️ npm start <br/>
+```shell
+cd <ComponentName> <br/>
+npm install <br/>
+npm start <br/>
+```
