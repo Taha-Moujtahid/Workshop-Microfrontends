@@ -4,7 +4,7 @@ const ModuleFederationPlugin = require("webpack/lib/container/ModuleFederationPl
 const deps = require("./package.json").dependencies;
 module.exports = (_, argv) => ({
   output: {
-    publicPath: "http://localhost:3000/",
+    publicPath: "http://localhost:3002/",
   },
 
   resolve: {
@@ -12,7 +12,7 @@ module.exports = (_, argv) => ({
   },
 
   devServer: {
-    port: 3000,
+    port: 3002,
     historyApiFallback: true,
   },
 
@@ -41,16 +41,11 @@ module.exports = (_, argv) => ({
 
   plugins: [
     new ModuleFederationPlugin({
-      name: "host",
+      name: "SongList",
       filename: "remoteEntry.js",
-      remotes: {
-        host: "host@http://localhost:3000/remoteEntry.js",
-
-        SongList: "SongList@http://localhost:3002/remoteEntry.js",
-        AudioPlayer: "AudioPlayer@http://localhost:3001/remoteEntry.js",
-      },
+      remotes: {},
       exposes: {
-        "./SharedState" : "./src/SharedState",
+        "./SongList": "./src/SongList",
       },
       shared: {
         ...deps,
