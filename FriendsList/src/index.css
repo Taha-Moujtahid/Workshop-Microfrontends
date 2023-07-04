@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  font-size: 3rem;
+  margin: auto;
+  max-width: 800px;
+  margin-top: 20px;
+}
+
+.list{
+  margin: 15px;
+}
+p{
+  font-size: 14px;
+  margin: 0;
+}
+span{
+  font-size: 12px;
+  background: lightgray;
+}
+
+
+
+
+
