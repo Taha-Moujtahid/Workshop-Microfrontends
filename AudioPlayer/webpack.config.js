@@ -43,7 +43,9 @@ module.exports = (_, argv) => ({
     new ModuleFederationPlugin({
       name: "AudioPlayer",
       filename: "remoteEntry.js",
-      remotes: {},
+      remotes: {
+        host: "host@http://localhost:3000/remoteEntry.js",
+      },
       exposes: { 
         "./AudioPlayer": "./src/AudioPlayer",
       },
