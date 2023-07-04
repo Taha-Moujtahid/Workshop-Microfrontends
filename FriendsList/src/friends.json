@@ -1,0 +1,254 @@
+{
+  "friends":[
+    {
+      "name":"johnsmith",
+      "song":null,
+      "isPlaying":false
+    },
+    {
+      "name":"johnsmith",
+      "song":"Imagine - John Lennon",
+      "isPlaying":false
+    },
+    {
+      "name":"johnsmith",
+      "song":null,
+      "isPlaying":false
+    },
+    {
+      "name":"johnsmith",
+      "song":"Lose Yourself - Eminem",
+      "isPlaying":false
+    },
+    {
+      "name":"johnsmith",
+      "song":"Stairway to Heaven - Led Zeppelin",
+      "isPlaying":false
+    },
+    {
+      "name":"emilywilson",
+      "song":"Like a Rolling Stone - Bob Dylan",
+      "isPlaying":false
+    },
+    {
+      "name":"emilywilson",
+      "song":"Thriller - Michael Jackson",
+      "isPlaying":false
+    },
+    {
+      "name":"emilywilson",
+      "song":"Like a Rolling Stone - Bob Dylan",
+      "isPlaying":false
+    },
+    {
+      "name":"johnsmith",
+      "song":null,
+      "isPlaying":false
+    },
+    {
+      "name":"mikejones",
+      "song":"Hey Jude - The Beatles",
+      "isPlaying":false
+    },
+    {
+      "name":"mikejones",
+      "song":"Billie Jean - Michael Jackson",
+      "isPlaying":false
+    },
+    {
+      "name":"mikejones",
+      "song":"Like a Rolling Stone - Bob Dylan",
+      "isPlaying":false
+    },
+    {
+      "name":"johnsmith",
+      "song":"Thriller - Michael Jackson",
+      "isPlaying":false
+    },
+    {
+      "name":"johnsmith",
+      "song":"Imagine - John Lennon",
+      "isPlaying":true
+    },
+    {
+      "name":"johnsmith",
+      "song":"Billie Jean - Michael Jackson",
+      "isPlaying":false
+    },
+    {
+      "name":"emilywilson",
+      "song":"Like a Rolling Stone - Bob Dylan",
+      "isPlaying":false
+    },
+    {
+      "name":"emilywilson",
+      "song":"Stairway to Heaven - Led Zeppelin",
+      "isPlaying":false
+    },
+    {
+      "name":"johnsmith",
+      "song":null,
+      "isPlaying":true
+    },
+    {
+      "name":"mikejones",
+      "song":"Like a Rolling Stone - Bob Dylan",
+      "isPlaying":false
+    },
+    {
+      "name":"janedoe",
+      "song":"Imagine - John Lennon",
+      "isPlaying":true
+    },
+    {
+      "name":"mikejones",
+      "song":"Smells Like Teen Spirit - Nirvana",
+      "isPlaying":false
+    },
+    {
+      "name":"janedoe",
+      "song":"Thriller - Michael Jackson",
+      "isPlaying":false
+    },
+    {
+      "name":"janedoe",
+      "song":null,
+      "isPlaying":false
+    },
+    {
+      "name":"janedoe",
+      "song":null,
+      "isPlaying":false
+    },
+    {
+      "name":"mikejones",
+      "song":null,
+      "isPlaying":true
+    },
+    {
+      "name":"emilywilson",
+      "song":"Smells Like Teen Spirit - Nirvana",
+      "isPlaying":false
+    },
+    {
+      "name":"janedoe",
+      "song":"Like a Rolling Stone - Bob Dylan",
+      "isPlaying":false
+    },
+    {
+      "name":"emilywilson",
+      "song":"Bohemian Rhapsody - Queen",
+      "isPlaying":true
+    },
+    {
+      "name":"emilywilson",
+      "song":"Thriller - Michael Jackson",
+      "isPlaying":true
+    },
+    {
+      "name":"johnsmith",
+      "song":null,
+      "isPlaying":false
+    },
+    {
+      "name":"mikejones",
+      "song":null,
+      "isPlaying":true
+    },
+    {
+      "name":"davidbrown",
+      "song":"Smells Like Teen Spirit - Nirvana",
+      "isPlaying":false
+    },
+    {
+      "name":"janedoe",
+      "song":"Like a Rolling Stone - Bob Dylan",
+      "isPlaying":true
+    },
+    {
+      "name":"janedoe",
+      "song":"Bohemian Rhapsody - Queen",
+      "isPlaying":false
+    },
+    {
+      "name":"emilywilson",
+      "song":"Billie Jean - Michael Jackson",
+      "isPlaying":true
+    },
+    {
+      "name":"mikejones",
+      "song":"Lose Yourself - Eminem",
+      "isPlaying":true
+    },
+    {
+      "name":"janedoe",
+      "song":"Billie Jean - Michael Jackson",
+      "isPlaying":true
+    },
+    {
+      "name":"mikejones",
+      "song":"Bohemian Rhapsody - Queen",
+      "isPlaying":false
+    },
+    {
+      "name":"johnsmith",
+      "song":"Thriller - Michael Jackson",
+      "isPlaying":false
+    },
+    {
+      "name":"mikejones",
+      "song":"Billie Jean - Michael Jackson",
+      "isPlaying":false
+    },
+    {
+      "name":"emilywilson",
+      "song":"Like a Rolling Stone - Bob Dylan",
+      "isPlaying":true
+    },
+    {
+      "name":"janedoe",
+      "song":"Hey Jude - The Beatles",
+      "isPlaying":false
+    },
+    {
+      "name":"davidbrown",
+      "song":"Billie Jean - Michael Jackson",
+      "isPlaying":false
+    },
+    {
+      "name":"johnsmith",
+      "song":"Stairway to Heaven - Led Zeppelin",
+      "isPlaying":false
+    },
+    {
+      "name":"mikejones",
+      "song":null,
+      "isPlaying":true
+    },
+    {
+      "name":"davidbrown",
+      "song":"Like a Rolling Stone - Bob Dylan",
+      "isPlaying":false
+    },
+    {
+      "name":"mikejones",
+      "song":"Thriller - Michael Jackson",
+      "isPlaying":true
+    },
+    {
+      "name":"mikejones",
+      "song":null,
+      "isPlaying":false
+    },
+    {
+      "name":"davidbrown",
+      "song":"Hotel California - Eagles",
+      "isPlaying":false
+    },
+    {
+      "name":"janedoe",
+      "song":null,
+      "isPlaying":false
+    }
+  ]
+}
